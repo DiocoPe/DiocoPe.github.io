@@ -1,0 +1,124 @@
+
+*{margin: 0 auto;}
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.faixa{
+    background-image: image-set("imgs/sea.png");
+    margin-bottom: 2pc;
+    size-adjust:0px;
+    margin: 0 auto;
+}
+h2{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(219, 249, 255);
+    text-decoration:underline;
+    font-family:serif;
+}
+#h22{
+    text-align: center;
+    font-size: 70px;
+    color: rgba(0, 0, 0, 0.831);
+    text-decoration:underline;
+    font-family:serif;
+    background-image: image-set("imgs/caribe2.jpg")
+}
+.sobre{
+background-color: #13B2B6;
+border:10px solid white;
+border-radius: 3rem;
+margin-right: 10rem;
+margin-left: 10rem;
+margin-bottom: 2pc;
+margin-top: 80px;
+}
+#texto{
+    text-align: center;
+    color:rgb(219, 249, 255);
+    font-size:20px;
+    margin-top: 30px;
+}
+#faixa{
+    color:black;
+    margin-bottom:0px;
+    text-align: center;
+}
+nav{
+text-align: center;
+font-size: larger;
+background-color: azure;
+display: inline;
+
+}
+nav:visited{
+    color:green
+}
+hr{
+    border: 0.1rem solid;
+    color:black
+}
+ h2{
+    color: rgb(219, 249, 255);
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+ }
+#dark{
+    background-color: #5f6368ff;
+}
+#mapa{
+    text-align: center;
+    
+}
+#pezin{
+    color:black;
+    background-color: rgb(219, 235, 234);
+    text-align: center;
+    padding: 16px;
+    font-size: 18px;
+}
+.cima{
+    word-spacing: 50px;
+    text-align: center;
+    height: 40px;
+    width: 400px;
+}
+body{
+    color: whitesmoke;
+    background-color: rgb(74, 172, 222);
+}
+.finalol{
+    color:rgb(219, 235, 234);
+    font-size: 30px;
+    text-align: center;
+}
+li{
+   color:rgb(255, 255, 255);
+   font-size: 40px;
+   text-align: center;
+}
+#insta{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+    text-align: center;
+    margin:0; 
+    display: block;
+}
+#h222{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(219, 249, 255);
+    text-decoration:underline;
+    font-family:serif;
+}
+.topo{
+    margin-left: 30px;
+    margin-top: 30px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
